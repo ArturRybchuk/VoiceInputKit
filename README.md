@@ -26,12 +26,9 @@ In Xcode:
 
 ```
 File → Add Packages...
-```
-
-Add your repository URL:
 
 ```
-https://github.com/yourname/VoiceInputKit.git
+https://github.com/ArturRybchuk/VoiceInputKit.git
 ```
 
 ---
